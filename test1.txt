@@ -5,3 +5,5 @@ modified
 
 
 git gui
+
+using pull command
